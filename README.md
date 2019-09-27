@@ -70,3 +70,7 @@ If you would like to add an event to the list, please leave a comment.
 2018-10-15 Politeia goes live on mainnet. - https://blog.decred.org/2018/10/15/Politeia-in-Production/
 
 2018-11-05 First Decred corporate contractor (Ditto PR) hired through a Politeia vote. - https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
+
+2019-07-31 DEX spec is published, formal work begins. https://github.com/decred/dcrdex/
+
+2019-08-28 Decred Privacy goes live on mainnet. - https://blog.decred.org/2019/08/28/Iterating-Privacy/
